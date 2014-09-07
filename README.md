@@ -1,6 +1,6 @@
-## Java 1.7 & Maven Dockerfile
+## Java 1.8 & Maven Dockerfile
 
-This repository contains a **Dockerfile** to create a docker container with Java 1.7, Maven 3.1.1 and git
+This repository contains a **Dockerfile** to create a docker container with Java 1.8, Maven 3.1.1 and git
 
 This **Dockerfile** has been published as a [trusted build](https://registry.hub.docker.com/u/jamesdbloom/docker-java8-maven/) to the public [Docker Registry](https://index.docker.io/).
 
