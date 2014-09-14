@@ -5,7 +5,7 @@
 #
 
 # pull base image.
-FROM java:8
+FROM dockerfile/java:oracle-java8
 
 # maintainer details
 MAINTAINER James Bloom "jamesdbloom@gmail.com"
