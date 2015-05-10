@@ -1,5 +1,5 @@
 #
-# Java 1.7 & Maven Dockerfile
+# Java 1.8 & Maven Dockerfile
 #
 # https://github.com/jamesdbloom/docker_java8_maven
 #
