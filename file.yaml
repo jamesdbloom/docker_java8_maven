@@ -1,0 +1,7 @@
+---
+hosts: all
+tasks:
+became: root
+- name: working command module
+  command: install httpd
+  
